@@ -1,6 +1,8 @@
 # 📝 Gerenciador de Tarefas
 
-![Imagem do Projeto](https://i.postimg.cc/3JTc1S2b/Captura-de-tela-2025-07-02-184231.png)
+<p align="center">
+  <img src="https://i.postimg.cc/j2MvsbS8/Chat-GPT-Image-2-de-jul-de-2025-18-48-54.png" alt="Imagem do Projeto" width="600">
+</p>
 
 ## 🔗 Acesse o Projeto Online
 
@@ -36,4 +38,5 @@ Tudo isso com uma interface simples, moderna e agradável!
 🔗 [@nataliapastre](https://github.com/natipastre)
 
 ---
+
 
