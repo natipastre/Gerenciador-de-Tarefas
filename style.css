@@ -1,0 +1,95 @@
+body {
+  background-image: url("img/7f5784fd0827f4cf730aa9ee641a3dfa.jpg"); /* coloque o nome da sua imagem aqui */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.conteudo {
+  max-width: 500px;
+  margin: 50px auto;
+  background-color: rgba(255, 255, 255, 0.25); /* fundo translúcido */
+  padding: 30px;
+  border-radius: 16px;
+  backdrop-filter: blur(10px); /* efeito de vidro */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.topo h1 {
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #3c91e6; /* azul suave */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #256bb0;
+}
+
+ul#listaTarefas {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+ul#listaTarefas li {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ddd;
+  padding: 8px 10px;   /* Reduzi o padding para ficar menor */
+  margin-bottom: 8px;  /* Menor espaçamento entre os itens */
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;      /* Fonte um pouco menor */
+}
+
+
+.TextoTarefa {
+  font-size: 16px;
+  color: #333;
+}
+
+.botoesAcoes button {
+  margin-left: 8px;
+  background: none;
+  border: none;
+  color: #3c91e6;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.botoesAcoes button:hover {
+  color: #256bb0;
+}
+
+.assinatura {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+  color: white;
+}
